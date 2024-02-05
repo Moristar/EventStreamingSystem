@@ -1,0 +1,14 @@
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/bin/Debug/net8.0/ConsoleClient
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/bin/Debug/net8.0/ConsoleClient.deps.json
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/bin/Debug/net8.0/ConsoleClient.runtimeconfig.json
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/bin/Debug/net8.0/ConsoleClient.dll
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/bin/Debug/net8.0/ConsoleClient.pdb
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.AssemblyInfoInputs.cache
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.AssemblyInfo.cs
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.csproj.CoreCompileInputs.cache
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.dll
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/refint/ConsoleClient.dll
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.pdb
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ConsoleClient.genruntimeconfig.cache
+/Users/moristar/projects/Tests/EventStreamingSystem/ConsoleClient/ConsoleClient/obj/Debug/net8.0/ref/ConsoleClient.dll

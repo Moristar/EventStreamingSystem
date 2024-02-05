@@ -1,0 +1,15 @@
+docker exec -it eventstreamingsystem-mysql-1 mysql -uroot -prootpassword
+
+USE EventsStreamDB;
+
+CREATE TABLE footballmatches (
+    MatchID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Players TEXT,
+    Score VARCHAR(50),
+    Comments TEXT
+);
+
+SHOW TABLES;
+
+DESCRIBE footballmatches;

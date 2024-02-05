@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ey47MZgtzuXt0Z7ut/vYNtWVDHHZFkb/SgRrBqtB+Ic=",
+  "Source": "VirtualMicroservices",
+  "BasePath": "_content/VirtualMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
